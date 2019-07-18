@@ -1,0 +1,34 @@
+{
+  "food": [
+    {
+      "id": "1",
+      "name": "sushi",
+      "category": "seafood",
+      "ethnicity": "japanese"
+    },
+    {
+      "id": "2",
+      "name": "pizza",
+      "category": "pizzeria food",
+      "ethnicity": "italian"
+    },
+    {
+      "id": "3",
+      "name": "pad thai",
+      "category": "noodles",
+      "ethnicity": "thai"
+    },
+    {
+      "id": "4",
+      "name": "cheeseburger",
+      "category": "bar food",
+      "ethnicity": "american"
+    },
+    {
+      "id": "5",
+      "name": "arancini",
+      "category": "dumplings",
+      "ethnicity": "italian"
+    }
+  ]
+}

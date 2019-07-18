@@ -1,0 +1,17 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.foodList {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.favoriteFood__section {
+    border: 1px solid green;
+    margin: 1em 1em;
+    padding: 1em 3em;
+}
